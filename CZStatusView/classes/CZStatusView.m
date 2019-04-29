@@ -7,7 +7,7 @@
 //
 
 #import "CZStatusView.h"
-#import <UIImageView+WebCache.h>
+#import <SDWebImage/UIImageView+WebCache.h>
 #import <CZConfig/CZConfig.h>
 #import <CZCategorys/NSString+CZCategory.h>
 #import <CZCategorys/UIView+CZCategory.h>

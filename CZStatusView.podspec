@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   s.dependency "CZCategorys", ">= 0.0.1"
   s.dependency "CZConfig", ">= 0.0.1"
-  s.dependency "SDWebImage", "5.0.2"
+  s.dependency "SDWebImage", ">= 5.0.2"
 end
