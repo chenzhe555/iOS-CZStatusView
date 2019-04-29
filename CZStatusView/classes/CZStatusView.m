@@ -9,8 +9,8 @@
 #import "CZStatusView.h"
 #import <UIImageView+WebCache.h>
 #import <CZConfig/CZConfig.h>
-#import <CZCategory/NSString+CZCategory.h>
-#import <CZCategory/UIView+CZCategory.h>
+#import <CZCategorys/NSString+CZCategory.h>
+#import <CZCategorys/UIView+CZCategory.h>
 
 @interface CZStatusView ()
 /**
